@@ -9,6 +9,7 @@
         <module name="member-service" />
         <module name="order-service" />
         <module name="springcloud-eureka" />
+        <module name="springcloud-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
